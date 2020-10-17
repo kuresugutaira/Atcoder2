@@ -1,0 +1,9 @@
+C:\Users\snake\Source\Repos\C\C\bin\Debug\net48\C.exe.config
+C:\Users\snake\Source\Repos\C\C\bin\Debug\net48\C.exe
+C:\Users\snake\Source\Repos\C\C\bin\Debug\net48\C.pdb
+C:\Users\snake\Source\Repos\C\C\obj\Debug\net48\C.csprojAssemblyReference.cache
+C:\Users\snake\Source\Repos\C\C\obj\Debug\net48\C.AssemblyInfoInputs.cache
+C:\Users\snake\Source\Repos\C\C\obj\Debug\net48\C.AssemblyInfo.cs
+C:\Users\snake\Source\Repos\C\C\obj\Debug\net48\C.csproj.CoreCompileInputs.cache
+C:\Users\snake\Source\Repos\C\C\obj\Debug\net48\C.exe
+C:\Users\snake\Source\Repos\C\C\obj\Debug\net48\C.pdb
