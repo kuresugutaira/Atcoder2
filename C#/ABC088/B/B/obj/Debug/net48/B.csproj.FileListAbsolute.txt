@@ -1,0 +1,9 @@
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\bin\Debug\net48\B.exe.config
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\bin\Debug\net48\B.exe
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\bin\Debug\net48\B.pdb
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\obj\Debug\net48\B.csprojAssemblyReference.cache
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\obj\Debug\net48\B.AssemblyInfoInputs.cache
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\obj\Debug\net48\B.AssemblyInfo.cs
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\obj\Debug\net48\B.csproj.CoreCompileInputs.cache
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\obj\Debug\net48\B.exe
+C:\Users\snake\Documents\Atcoder\C#\ABC088\B\B\obj\Debug\net48\B.pdb

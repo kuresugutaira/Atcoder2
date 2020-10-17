@@ -1,0 +1,13 @@
+D:\Documents\Atcoder\C#\ABC180\D\D\bin\Debug\netcoreapp3.1\D.exe
+D:\Documents\Atcoder\C#\ABC180\D\D\bin\Debug\netcoreapp3.1\D.deps.json
+D:\Documents\Atcoder\C#\ABC180\D\D\bin\Debug\netcoreapp3.1\D.runtimeconfig.json
+D:\Documents\Atcoder\C#\ABC180\D\D\bin\Debug\netcoreapp3.1\D.runtimeconfig.dev.json
+D:\Documents\Atcoder\C#\ABC180\D\D\bin\Debug\netcoreapp3.1\D.dll
+D:\Documents\Atcoder\C#\ABC180\D\D\bin\Debug\netcoreapp3.1\D.pdb
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.csprojAssemblyReference.cache
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.AssemblyInfoInputs.cache
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.AssemblyInfo.cs
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.csproj.CoreCompileInputs.cache
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.dll
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.pdb
+D:\Documents\Atcoder\C#\ABC180\D\D\obj\Debug\netcoreapp3.1\D.genruntimeconfig.cache
